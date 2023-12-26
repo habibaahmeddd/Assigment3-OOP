@@ -1,0 +1,18 @@
+"C:\Users\iRepair\AppData\Local\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/iRepair/AppData/Local/JetBrains/CLion 2022.3.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S D:\Assign3\CS213-2023-2024-Assignment3-V1.0\CS213-2023-2024-Assignment3-V1.0\XO_OOP_wRandom\src -B D:\Assign3\CS213-2023-2024-Assignment3-V1.0\CS213-2023-2024-Assignment3-V1.0\XO_OOP_wRandom\src\cmake-build-debug
+-- The C compiler identification is GNU 6.3.0
+-- The CXX compiler identification is GNU 6.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe - works
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - failed
+-- Check for working CXX compiler: C:/MinGW/bin/c++.exe
+-- Check for working CXX compiler: C:/MinGW/bin/c++.exe - works
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Assign3/CS213-2023-2024-Assignment3-V1.0/CS213-2023-2024-Assignment3-V1.0/XO_OOP_wRandom/src/cmake-build-debug

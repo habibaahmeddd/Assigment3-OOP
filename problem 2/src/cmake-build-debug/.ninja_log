@@ -1,0 +1,8 @@
+# ninja log v5
+12	498	7245148008650184	CMakeFiles/src.dir/X_O_App.cpp.obj	953e0d6c224089dd
+30	807	7245148011738906	CMakeFiles/src.dir/X_O_Board.cpp.obj	1c80b7e84e7782dc
+7	519	7245148008860827	CMakeFiles/src.dir/GameManager.cpp.obj	1aa7f926986eaa63
+21	823	7245148011900171	CMakeFiles/src.dir/RandomPlayer.cpp.obj	c8bad87853306bb2
+1	385	7245154290773701	CMakeFiles/src.dir/Four-in-row.cpp.obj	b23ca4e94a19bcc0
+1	380	7245156839696206	CMakeFiles/src.dir/Player.cpp.obj	320a0d4db83ab4c2
+380	494	7245156840780652	src.exe	bf155d74a5cffc6d
